@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapi-Using-CQRS-Pattern-With-Mediatr", "Webapi-Using-CQRS-Pattern-With-Mediatr\Webapi-Using-CQRS-Pattern-With-Mediatr.csproj", "{F036B47F-3A64-4509-8432-498B9402E71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F036B47F-3A64-4509-8432-498B9402E71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F036B47F-3A64-4509-8432-498B9402E71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F036B47F-3A64-4509-8432-498B9402E71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F036B47F-3A64-4509-8432-498B9402E71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A52C89-F040-44B6-A8BE-042DF9F8C17E}
+	EndGlobalSection
+EndGlobal
